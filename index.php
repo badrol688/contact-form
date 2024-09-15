@@ -1,4 +1,9 @@
     <!DOCTYPE html>
+    <br />
+    <br />
+    <br />
+    <br />
+
     <html>
 
     <head>
@@ -6,22 +11,22 @@
         <style>
             body {
                 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-                background-color: #e9ecef;
+                background-color: #C71585;
                 margin: 0;
                 padding: 0;
                 display: flex;
                 justify-content: center;
                 align-items: center;
                 height: 100vh;
-            }
+            }   
 
             h2 {
-                color: #343a40;
+                color: #00008B;
                 text-align: center;
             }
 
             form {
-                background-color: #ffffff;
+                background-color: #FFC0CB;
                 padding: 30px;
                 border-radius: 10px;
                 box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -33,7 +38,7 @@
                 font-weight: bold;
                 margin-bottom: 8px;
                 display: block;
-                color: #495057;
+                color: #00008B;
             }
 
             input[type="text"],
